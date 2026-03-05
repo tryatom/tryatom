@@ -1,11 +1,11 @@
 # ⚛️ ATOM
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14F195&height=250&section=header&text=ATOM&fontSize=90&fontAlignY=38&desc=Trade%20anything,%20anywhere%20on%20Solana&descAlignY=55&descAlign=62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=ATOM&fontSize=90&fontAlignY=38&desc=Trade%20anything,%20anywhere%20on%20Solana&descAlignY=55&descAlign=62&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana" />
+  <img src="https://img.shields.io/badge/Solana-3B82F6?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
@@ -26,8 +26,8 @@ We actively maintain a suite of highly-optimized tools designed to give you an e
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tryatom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=14F195&icon_color=14F195&title_color=ffffff" alt="ATOM's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tryatom&theme=radical&hide_border=true&background=0D1117&ring=14F195&fire=14F195&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="ATOM's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tryatom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=3B82F6&icon_color=3B82F6&title_color=ffffff" alt="ATOM's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tryatom&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="ATOM's GitHub Streak" />
 </div>
 
 ### 📬 Connect With Us
